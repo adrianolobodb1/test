@@ -3,4 +3,11 @@
     color: #fff!important;
 }
 
+button.submit {
+    border-radius: 0px;
+    padding: 10px 25px;
+    background-color: #fff;
+    background-image: none;
+}
+
   
